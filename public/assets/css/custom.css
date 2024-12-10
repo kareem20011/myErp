@@ -1,0 +1,10 @@
+body,
+input::placeholder,
+textarea::placeholder {
+    text-transform: capitalize !important;
+}
+
+.myul {
+    list-style: decimal;
+    padding-left: 1rem;
+}
